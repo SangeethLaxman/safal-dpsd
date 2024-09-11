@@ -6,8 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "datalogger": "*",
-        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.1",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "maqueenPlusV2": "github:dfrobot/pxt-dfrobot_maqueenplus_v20#v2.2.0"
     },
     "files": [
         "main.blocks",
